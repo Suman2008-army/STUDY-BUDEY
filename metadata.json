@@ -1,0 +1,8 @@
+{
+  "name": "Buddy - Friend & Study AI",
+  "description": "An AI chatbot that acts as a supportive friend and an effective study partner, helping you learn and chatting with you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
